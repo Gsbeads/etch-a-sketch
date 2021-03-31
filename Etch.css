@@ -1,0 +1,22 @@
+html {
+  background-color: purple;  
+}
+
+#gameSpace {
+    background-color: lightblue;
+    width: 320px;
+    height: 320px;
+    margin: auto;
+}
+
+.littleSquare {
+    width: 20px;
+    height: 20px;
+    border: 1px solid blue;
+    box-sizing: border-box; 
+    display: inline-block;
+}
+
+.pretty {
+    background-color: hotpink;
+}
